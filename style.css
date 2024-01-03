@@ -210,7 +210,7 @@ margin: 10px auto;
 
 #date label{
    margin-left: 300px;
-   font-size: 23px;
+   font-size: 20px;
    margin-top: 4px;
 }
 
@@ -218,7 +218,7 @@ margin: 10px auto;
   margin-top: 0;
   margin-left: 15px;
   padding: 10px;
-  background-color: #080808;
+  background-color: #ee9797;
   color: antiquewhite;
   border-radius: 5px;
  }
@@ -248,4 +248,14 @@ margin: 10px auto;
 
  /* footer */
 
- 
+ footer{
+  width: 100%;
+  background-color: darkslategray;
+  margin-bottom: 0px;
+ }
+ footer p{
+  color: aliceblue;
+  text-align: center;
+  font-size: 25px;
+  padding: 10px 5px;
+ }
